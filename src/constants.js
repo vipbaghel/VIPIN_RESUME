@@ -49,9 +49,9 @@ import githubdetLogo from './assets/work_logo/StudyNotion.png';
 import csprepLogo from './assets/work_logo/AI_Developer.png';
 import movierecLogo from './assets/work_logo/Message_app.png';
 import taskremLogo from './assets/work_logo/BlogApp.png';
-import npmLogo from './assets/work_logo/interview.png';
+import npmLogo from './assets/work_logo/Interview.png';
 import webverLogo from './assets/work_logo/FoodApp.png';
-import cmLogo from './assets/work_logo/Leetcode1.png';
+import cmLogo from './assets/work_logo/leetcode1.png';
 import imagesearchLogo from './assets/work_logo/NetFlix.jpg';
 import removebgLogo from './assets/work_logo/remove_bg.png';
 
